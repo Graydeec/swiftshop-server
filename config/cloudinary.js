@@ -8,4 +8,6 @@ const connectCloudinary = async () => {
   });
 };
 
+console.log("Cloudinary Connected");
+
 export default connectCloudinary;

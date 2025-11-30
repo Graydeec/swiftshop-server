@@ -2,6 +2,14 @@
   "name": "backend",
   "version": "1.0.0",
   "description": "",
+  "homepage": "https://github.com/Graydeec/swiftshop-server#readme",
+  "bugs": {
+    "url": "https://github.com/Graydeec/swiftshop-server/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Graydeec/swiftshop-server.git"
+  },
   "license": "ISC",
   "author": "",
   "type": "module",
